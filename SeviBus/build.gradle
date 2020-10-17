@@ -28,11 +28,11 @@ android {
       storeFile file("../debug.keystore")
     }
   }
-  compileSdkVersion 27
+  compileSdkVersion 29
   defaultConfig {
     applicationId 'com.sloy.sevibus'
     minSdkVersion 21
-    targetSdkVersion 27
+    targetSdkVersion 29
     versionCode myVersionCode
     versionName myVersionName
     multiDexEnabled true
